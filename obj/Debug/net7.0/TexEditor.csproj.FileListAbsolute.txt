@@ -1,0 +1,15 @@
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\bin\Debug\net7.0\TexEditor.exe
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\bin\Debug\net7.0\TexEditor.deps.json
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\bin\Debug\net7.0\TexEditor.runtimeconfig.json
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\bin\Debug\net7.0\TexEditor.dll
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\bin\Debug\net7.0\TexEditor.pdb
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.csproj.AssemblyReference.cache
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.AssemblyInfoInputs.cache
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.AssemblyInfo.cs
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.dll
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\refint\TexEditor.dll
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.pdb
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\TexEditor.genruntimeconfig.cache
+C:\Users\guilherme.oliveira\Documents\WORKSPACE\TexEditor\obj\Debug\net7.0\ref\TexEditor.dll
